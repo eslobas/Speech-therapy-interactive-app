@@ -1,0 +1,4 @@
+# Speech-therapy-interactive-app
+The main goal of this repository is to keep a personal project for a specific health department. In this repository you will find prints of the interface (frontend made in figma) of the app as well as the code (js) divided in layers (each folder represents a layer) The app is suppose to help speech therapy pacients (mainly kids) to practice and have the activitys through the app and help the health professionals and doctor to keep track of the pacients progress. The interface will be in my main language (portuguese). In the folder you would also find a file named databasescript that is a pre made script to fill the database and that way to test it. 
+
+DISCLAIMER: some parts of the code was simplified and error corrected in deepseek ai. also, the connections were left "generalistic" so anyone does their own personal connections. also, i left a word with the project structure.
